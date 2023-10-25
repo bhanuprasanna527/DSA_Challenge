@@ -35,3 +35,8 @@ The resources that I used for Learning C++ are provided below:
 1. YouTube - [C++ 20 - FreeCodeCamp Course](https://www.youtube.com/watch?v=8jLOx1hD3_o&pp=ygUKYysrIGNvdXJzZQ%3D%3D)
 2. YouTube - [Time and Space Complexity](https://www.youtube.com/watch?v=mV3wrLBbuuE&pp=ygUadGltZSBhbmQgc3BhY2UgY29tcGxleGl0eSA%3D)
 2. Hackerrank - 
+
+
+## Day 1 - 26/10/2023
+
+Things that I have done today are
